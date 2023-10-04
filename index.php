@@ -14,7 +14,7 @@
         <tr><td>nome<td>nome<td>adm
         <tr><td>nome<td>nome<td>adm
         <tr><td>nome<td>nome<td>adm
-         
+         <h1>categorias </h1>
     </table>
     </div>
 </body>
